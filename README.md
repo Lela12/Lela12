@@ -33,3 +33,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharryun@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 	
+
+#### Today
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLela12)](https://hits.seeyoufarm.com) 
+
+	
