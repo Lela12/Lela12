@@ -35,7 +35,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:sharryun@gmail.com/"><img
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharryun@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"> 
 
 
 
