@@ -14,17 +14,14 @@ Here are some ideas to get you started:
 -->
 <div>
   
-## Lela12:sparkles:
+## Lela12 :sparkles:
   
-  </div>
+</div>
 
   
 ### Stack 📝
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
-
-
-
 
   
 ### Contact me 💌
@@ -34,13 +31,4 @@ src="http://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=Blogger&logo
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:sharryun@gmail.com/"><img
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sharryun@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-
-
-
-
-
-
-
-
+style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
