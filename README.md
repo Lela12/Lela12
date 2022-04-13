@@ -33,7 +33,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	
 ### Stats 💻
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)	
+![Lela12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lela12&show_icons=true&theme=dark)
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lela12&layout=compact)](https://github.com/Lela12/github-readme-stats)
 	
